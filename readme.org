@@ -1,0 +1,89 @@
+#+TITLE:   A Personal Finance Basics Overview
+#+DATE:    January 14, 2020
+
+* Table of Contents :TOC_3:noexport:
+- [[#minimum-knowledge][Minimum Knowledge]]
+- [[#where-to-put-your-money][Where to put your money]]
+  - [[#tfsa][TFSA]]
+  - [[#rrsp][RRSP]]
+    - [[#fthbp][FTHBP]]
+- [[#what-to-buy][What to buy]]
+  - [[#better][Better]]
+  - [[#easiest][Easiest]]
+- [[#misc][Misc.]]
+  - [[#stocks-bonds-gics-reits][Stocks, Bonds, GICs, REITs]]
+  - [[#etf-index-fund][ETF, Index Fund]]
+  - [[#dividends][Dividends]]
+  - [[#interest][Interest]]
+  - [[#capiteal-gains][Capiteal Gains]]
+- [[#how-to-buy][How to buy]]
+
+* Minimum Knowledge
+Make money, keep it (don't spend it on thngs you don't need), invest it.
+
+* Where to put your money
+In Canada, TFSA, and RRSP.
+
+** TFSA
+A place to put your money and not pay any tax.
+
+There is a limit on what you can put in, but it increases every year (by the
+same amount, regardless of what you make)
+
+**You pay tax 15% tax on dividends from US stocks
+
+
+** RRSP
+A way to get free money right now, and pay the tax when you windraw later.
+("free", you get some of the income tax you paid back)
+
+The idea is get the money now so you can invest it, then withdraw once you've reduced
+your income to a low tax bracket, or when you buy a home (see FTHBP below).
+
+The more you make, the more you can put in, the more you get back.
+To put in the max of $26,500, you need to make around $150k/yr, and you would
+get around $11.5k in tax savings ("free money").
+
+#+TBLFM: $1=26500/.18
+*** FTHBP
+First-time home buyers plan
+
+If youare buying your first home, you can withdraw 35K from your RRSP tax free.
+You have to put 35k back into your RRSP within 17 years of taking it out
+(starting year 2). You don't get any money back on this since you already did
+when you first put it in.
+
+The point of doing this is to get free money for putting 35k into your RRSP.
+Then use it for a down payment on your first home.
+When it appreciates, you can sell for a tax free profit to use to buy your next place.
+
+Remember you eventually have to pay tax when you take money our of here.
+This makes it a good place to keep fixed income portion of your portfolio.
+
+
+
+* What to buy
+ETFs exchange traded funds.
+In Canada
+** Better
+
+| Ticker | Allocation |
+|--------+------------|
+| XAW    |        60% |
+| VCN    |        30% |
+| ZAG    |        10% |
+
+** Easiest
+Just buy VGRO or XGRO
+
+
+* TODO Misc.
+** Stocks, Bonds, GICs, REITs
+** ETF, Index Fund
+** Dividends
+Pay almost no tax on Canadian Dividends. It's called gross up.
+** Interest
+Pay 100% tax, keep interst paying assets in RRSP
+** Capiteal Gains
+Pay income tax on 50% of realized gain.
+* TODO How to buy
