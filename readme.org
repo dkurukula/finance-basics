@@ -19,7 +19,7 @@
 - [[#how-to-buy][How to buy]]
 
 * Minimum Knowledge
-Make money, keep it (don't spend it on thngs you don't need), invest it.
+Make money, keep it (don't spend it on things you don't need), invest it.
 
 * Where to put your money
 In Canada, TFSA, and RRSP.
@@ -44,11 +44,15 @@ The more you make, the more you can put in, the more you get back.
 To put in the max of $26,500, you need to make around $150k/yr, and you would
 get around $11.5k in tax savings ("free money").
 
+You can also roll the taxable income reduction to future years, this can be advantageous
+if you will be jumping tax brackets or are planning on having kids soon and want to 
+reduce your taxable income enough to get more from the child tax credit. 
+
 #+TBLFM: $1=26500/.18
 *** FTHBP
 First-time home buyers plan
 
-If youare buying your first home, you can withdraw 35K from your RRSP tax free.
+If you are buying your first home, you can withdraw 35K from your RRSP tax free.
 You have to put 35k back into your RRSP within 17 years of taking it out
 (starting year 2). You don't get any money back on this since you already did
 when you first put it in.
@@ -81,7 +85,7 @@ Just buy VGRO or XGRO
 ** Stocks, Bonds, GICs, REITs
 ** ETF, Index Fund
 ** Dividends
-Pay almost no tax on Canadian Dividends. It's called gross up.
+Pay almost no tax on Canadian Dividends. You get a tax credit that almost fully offsets the tax you pay.
 ** Interest
 Pay 100% tax, keep interst paying assets in RRSP
 ** Capiteal Gains
