@@ -1,5 +1,5 @@
-#+TITLE:   A Personal Finance Basics Overview
 #+DATE:    January 14, 2020
+#+TITLE:   A Personal Finance Basics Overview
 
 * Table of Contents :TOC_3:noexport:
 - [[#minimum-knowledge][Minimum Knowledge]]
@@ -17,6 +17,8 @@
   - [[#interest][Interest]]
   - [[#capiteal-gains][Capiteal Gains]]
 - [[#how-to-buy][How to buy]]
+  - [[#open-a-questrade-account][open a questrade account]]
+    - [[#use-referral-code][use referral code:]]
 
 * Minimum Knowledge
 Make money, keep it (don't spend it on things you don't need), invest it.
@@ -91,3 +93,20 @@ Pay 100% tax, keep interst paying assets in RRSP
 ** Capiteal Gains
 Pay income tax on 50% of realized gain.
 * TODO How to buy
+** open a questrade account
+   You need to deposit a minimum of $1000
+*** use referral code:
+    =616304821418115=
+    You will get: 
+
+    | Free money | When you deposit |
+    |------------+------------------|
+    | $25        | $1,000 (minimum) |
+    | $50        | $10,000          |
+    | $75        | $25,000          |
+    | $100       | $50,000          |
+    | $250       | $100,000         |
+
+    You have 90 days within opening an account to deposit the amount required to reach the next reward level.
+
+    
