@@ -15,7 +15,7 @@
   - [[#etf-index-fund][ETF, Index Fund]]
   - [[#dividends][Dividends]]
   - [[#interest][Interest]]
-  - [[#capiteal-gains][Capiteal Gains]]
+  - [[#capital-gains][Capital Gains]]
 - [[#how-to-buy][How to buy]]
   - [[#open-a-questrade-account][open a questrade account]]
     - [[#use-referral-code][use referral code:]]
@@ -87,10 +87,13 @@ Just buy VGRO or XGRO
 ** Stocks, Bonds, GICs, REITs
 ** ETF, Index Fund
 ** Dividends
-Pay almost no tax on Canadian Dividends. You get a tax credit that almost fully offsets the tax you pay.
+Pay almost less tax on Canadian Dividends. You get a tax credit that partially offsets the tax you pay, this is dependent on your tax bracket and only slightly preferable to receiving the same income on your paycheck.
+There are 2 types of dividends, eligible and ineligible.  The company you are getting dividends will say if the dividends are eligible or ineligible.
+Eligible dividends, save you more tax and are better.
+
 ** Interest
 Pay 100% tax, keep interst paying assets in RRSP
-** Capiteal Gains
+** Capital Gains
 Pay income tax on 50% of realized gain.
 * TODO How to buy
 ** open a questrade account
