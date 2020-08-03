@@ -19,6 +19,7 @@
 - [[#how-to-buy][How to buy]]
   - [[#open-a-questrade-account][open a questrade account]]
     - [[#use-referral-code][use referral code:]]
+  - [[#fund-your-account][fund your account]]
 
 * Minimum Knowledge
 Make money, keep it (don't spend it on things you don't need), invest it.
@@ -97,7 +98,7 @@ Pay 100% tax, keep interst paying assets in RRSP
 Pay income tax on 50% of realized gain.
 * TODO How to buy
 ** open a questrade account
-   You need to deposit a minimum of $1000
+You need to deposit a minimum of $1000
 *** use referral code:
     =616304821418115=
     You will get: 
@@ -112,4 +113,15 @@ Pay income tax on 50% of realized gain.
 
     You have 90 days within opening an account to deposit the amount required to reach the next reward level.
 
-    
+
+** fund your account
+1. on your banks website/app go to to ==pay bill=
+2. choose =QUESTRADE INC=
+3. add =questrade account number= your account number
+   You will see your account number on questrade right before the accoutn type
+   e.g. 5132938472 - TFSA, or 5142349062 - RRSP
+4. "pay the bill" to transfer money
+   It will take 1-2 business days, occasionally it takes a bit longer
+   Plan ahead and fund your account earlier rather than later, you wont be able to buy when there is a dip if you dont
+   already have money in your questrade account
+5. repeat for your other questrade account(s)
