@@ -17,9 +17,12 @@
   - [[#interest][Interest]]
   - [[#capital-gains][Capital Gains]]
 - [[#how-to-buy][How to buy]]
-  - [[#open-a-questrade-account][open a questrade account]]
-    - [[#use-referral-code][use referral code:]]
-  - [[#fund-your-account][fund your account]]
+  - [[#weathsimple-trade][Weathsimple Trade]]
+    - [[#open-a-weathsimple-trade-account][open a Weathsimple Trade account]]
+    - [[#fund-your-account][fund your account]]
+  - [[#questrade][Questrade]]
+    - [[#open-a-questrade-account][open a questrade account]]
+    - [[#fund-your-account-1][fund your account]]
 
 * Minimum Knowledge
 Make money, keep it (don't spend it on things you don't need), invest it.
@@ -97,9 +100,36 @@ Pay 100% tax, keep interst paying assets in RRSP
 ** Capital Gains
 Pay income tax on 50% of realized gain.
 * TODO How to buy
-** open a questrade account
+** Weathsimple Trade
+This is the easiest platform to setup and use, you can do everything easily from your
+phone. The user experience is great.  There are no comissions on buy or sell,
+only exchange fee when buying from US exchanges with CAD. They don't have as many stock exchanges as
+Questrade but have the major North American ones.
+
+*** open a Weathsimple Trade account
+https://my.wealthsimple.com/app/public/trade-referral-signup?code=4AEQCG
+
+All you need is:
++ Your name, email, phone number, address
++ a new password
++ Your SIN
+
+The setup is easy and self explanatory, nothing worth explaining here.
+You can open a TFSA or RRSP in a few minutes. Not even any forms to digitally
+sign like with Questrade. They distill everything down to a few options to
+select. Then just click agree and you're done.
+
+*** fund your account
+You can link you bank account, it takes around 3 days for funds to transfer.
+** Questrade
+This has been around longer has a large selection of funds to choose from.  You
+can do everything from your phone.  The user experience is mostly pretty good.
+It's free to buy ETFs. It costs $5-10 to sell ETFs, or to buy or sell anything else.
+If you just want to buy ETFs (including international) and hold long term, this
+is the way to go.
+*** open a questrade account
 You need to deposit a minimum of $1000
-*** use referral code:
+**** use referral code:
     =616304821418115=
     You will get: 
 
@@ -113,8 +143,7 @@ You need to deposit a minimum of $1000
 
     You have 90 days within opening an account to deposit the amount required to reach the next reward level.
 
-
-** fund your account
+*** fund your account
 1. on your banks website/app go to to ==pay bill=
 2. choose =QUESTRADE INC=
 3. add =questrade account number= your account number
